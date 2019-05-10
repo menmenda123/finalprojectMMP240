@@ -49,6 +49,7 @@ img{
     border: 3px solid #333;
     font-size:14px;
     margin-top: 40px;
+    margin-bottom: 40px;
     min-height: 550px;
 }
 
@@ -64,7 +65,7 @@ h3{
 }
 
 .c35{
-    width:70%;
+    width:65%;
     column-count: 2;
     
 }
@@ -171,6 +172,8 @@ nav a:hover{
 
 
 @media screen and (max-width:900px){
+
+    
     h2{
         font-size: 20px;
     } 
@@ -181,13 +184,8 @@ nav a:hover{
     
     .col P{
     font-size:10.5px;
+        
 }
-   
-    
-
-    
-
-    
   
         
 
